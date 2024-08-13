@@ -1,0 +1,1 @@
+# tech-chalenge2-modelo-preditivo-ibovespa
