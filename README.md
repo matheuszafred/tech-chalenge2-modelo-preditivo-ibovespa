@@ -8,6 +8,6 @@ Para isso utilize a base de dados contida no site da investing e selecione o per
 
 Você precisará demonstrar para o time de investimentos:
 
-/ O modelo com o storytelling, desde a captura do dado até a entrega do modelo;
-/ Justificar a técnica utilizada;
-/ Atingir uma acuracidade adequada (acima de 70%).
+- O modelo com o storytelling, desde a captura do dado até a entrega do modelo;
+- Justificar a técnica utilizada;
+- Atingir uma acuracidade adequada (acima de 70%).
